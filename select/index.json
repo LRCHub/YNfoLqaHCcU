@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Be You",
+  "base_artist": "Novel Core",
+  "createdAt": "2025-12-15T14:35:43.004165Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'd Be You",
+      "artist": "Lily Rose",
+      "has_synced": true,
+      "path": "select/01_I'd_Be_You_Lily_Rose.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It Would Be You",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/02_It_Would_Be_You_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mine Would Be You",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/03_Mine_Would_Be_You_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It Had to Be You",
+      "artist": "B.B. King feat. Diane Schuur",
+      "has_synced": true,
+      "path": "select/04_It_Had_to_Be_You_B.B._King_feat._Diane_Schuur.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It Had To Be You",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/05_It_Had_To_Be_You_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It Could Be You",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/06_It_Could_Be_You_Blur.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It Had To Be You",
+      "artist": "The Rat Pack",
+      "has_synced": false,
+      "path": "select/07_It_Had_To_Be_You_The_Rat_Pack.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sucks To Be You",
+      "artist": "SAINt JHN",
+      "has_synced": true,
+      "path": "select/08_Sucks_To_Be_You_SAINt_JHN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Could It Be You",
+      "artist": "Cascada",
+      "has_synced": false,
+      "path": "select/09_Could_It_Be_You_Cascada.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It Could Be You",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/10_It_Could_Be_You_Blur.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Everybody Wants to Be You",
+      "artist": "Niki & The Dove",
+      "has_synced": true,
+      "path": "select/11_Everybody_Wants_to_Be_You_Niki_&_The_Dove.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Be You Mighty Sparrow?",
+      "artist": "British Sea Power",
+      "has_synced": false,
+      "path": "select/12_Be_You_Mighty_Sparrow_British_Sea_Power.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Why Can't I Be You?",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/13_Why_Can't_I_Be_You_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Why Can't I Be You?",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/14_Why_Can't_I_Be_You_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Why Can't I Be You? - Acoustic Version",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/15_Why_Can't_I_Be_You__-_Acoustic_Version_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Why Can't I Be You? (Acoustic)",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/16_Why_Can't_I_Be_You__(Acoustic)_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Why Can't I Be You? (Extended Mix 1987)",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/17_Why_Can't_I_Be_You__(Extended_Mix_1987)_The_Cure.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Be You feat. RAU DEF",
+      "artist": "Novel Core",
+      "has_synced": false,
+      "path": "select/pl_01_Be_You_feat._RAU_DEF_Novel_Core.txt"
+    }
+  ]
+}
